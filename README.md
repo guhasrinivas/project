@@ -23,8 +23,8 @@ A modern, full-featured travel listings web app built with Node.js, Express, Mon
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/wanderlust.git
-   cd wanderlust
+   git clone https://github.com/guhasrinivas/project.git
+   cd project
    ```
 
 2. **Install dependencies:**
