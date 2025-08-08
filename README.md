@@ -10,5 +10,8 @@ Server-side validation with Joi
 Flash messages for user feedback
 Responsive design with Bootstrap
 Modular MVC architecture
+
+
+
 Tech Stack:
 Node.js, Express, MongoDB, Mongoose, Passport.js, EJS, Bootstrap, Joi
